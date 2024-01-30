@@ -1,4 +1,4 @@
 # counter
-A small counter project in javascript
+A small counter and stopwatch project in javascript
 
 ![Alt text](image.png)
